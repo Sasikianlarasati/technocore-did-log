@@ -1,0 +1,10 @@
+{
+    "schema": "technocore-contribution-proof-v2",
+    "artifact_url": "https://github.com/Sasikianlarasati/technocore-did-log",
+    "commit": "2358fbf28eb447fb6211ca6c51ced9e38d15fd33",
+    "did": "did:key:z6MktwBQ6bRSV2cc5ozq7zA1rbyZsQsXLkerYi6PUryQ5uGi",
+    "issued_at": 1795567592,
+    "expires_at": 1803343592,
+    "nonce": "77c32a15d9ed96189c5c633e372f2492",
+    "signature": "Z0dnBRF4JatNNNYWM10xBSL6mC2yYId8bWfvM-jOh9D4lf_R5Vv3K-CQjyT1a0e3nLeB_wafgm8OThwkKMuUBg"
+}
