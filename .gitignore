@@ -1,0 +1,8 @@
+# Secrets — never commit these
+identity.pem
+passphrase*
+*.pem
+*.key
+seed.txt
+*.secret
+.env
